@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to these topics
 - 📫 How to reach me:  
      Linkedin: https://www.linkedin.com/in/juniorcandela/  
-     gmail: juniorcandela98@gmail.com
+     Gmail: juniorcandela98@gmail.com
 
 <!---
 Juniorcandela/Juniorcandela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
